@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aulaapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aulaapi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
